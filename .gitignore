@@ -1,0 +1,12 @@
+# Local game installs and extracted proprietary files
+extract_game/
+patch_source/
+fonts/
+quarantine/
+*.locres
+*.uasset
+*.uexp
+
+# Translation work files are intentionally not redistributed by default.
+*.csv
+
